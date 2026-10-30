@@ -1,0 +1,1 @@
+REVOKE UPDATE (qr_token) ON passengers FROM authenticated;
